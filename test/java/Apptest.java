@@ -1,4 +1,5 @@
-import org.junit.Test;
+package studentApp.test.java;
+import org.junit.jupiter.api.Test;
 import org.junit.Assert.*;
 
 public class Apptest {
